@@ -1,5 +1,5 @@
 
-# Microshell 💻
+# Microshell
 This is a simple project created for my Operating Systems class at Adam Mickiewicz University.
 
 ## Running the program
